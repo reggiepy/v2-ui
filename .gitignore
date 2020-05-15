@@ -3,6 +3,3 @@
 /log/ucloud_server.log
 /log/ucloud_uvicorn.log
 *.pyc
-/venv
-/log/*.log
-/static/*
